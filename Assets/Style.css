@@ -3,12 +3,12 @@
   height: 200px;
 }
 
-.mainArea {
-  background-image: url("./Assets/Images/Marvel.jpg");
+body {
+  background-image: url("./Images/Marvel.jpg");
 }
 
-#customWrapper {
-    background-image: url("./Assets/Images/Marvel.jpg");
+p {
+  font-weight: bold;
 }
 
 .main-button-container {
@@ -20,10 +20,12 @@
 
 .timer-p {
   margin-top: 40px;
+  font-weight: bold;
 }
 
 .answer:hover {
-  background: pink;
+  background: grey;
+  font-weight: bold;
 }
 
 .answer {
@@ -33,6 +35,7 @@
   padding-left: 14px;
   background-color: white;
   border-radius: 4px;
+  font-weight: bold;
 }
 
 .img-wrong {
@@ -41,6 +44,7 @@
 
 .first-answer {
   margin-top: 40px;
+  font-weight: bold;
 }
 
 .reset-button {
@@ -50,3 +54,4 @@
 .summary-correct {
   margin-top: 40px;
 }
+

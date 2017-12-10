@@ -9,7 +9,7 @@ body {
 
 p {
   font-weight: bold;
-  color: white;
+  color: #850C01;
 }
 
 .main-button-container {
@@ -21,12 +21,6 @@ p {
 
 .timer-p {
   margin-top: 40px;
-  font-weight: bold;
-  font-color: white;
-}
-
-.option:hover {
-  background: grey;
   font-weight: bold;
 }
 
@@ -44,7 +38,7 @@ p {
   margin-top: 40px;
 }
 
-.first-answer {
+.pOption {
   margin-top: 40px;
   font-weight: bold;
 }
@@ -56,4 +50,3 @@ p {
 .summary-correct {
   margin-top: 40px;
 }
-

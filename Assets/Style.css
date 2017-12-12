@@ -32,6 +32,12 @@ p {
   background-color: white;
   border-radius: 4px;
   font-weight: bold;
+  width: 20%;
+}
+
+.option:hover {
+  border-color: black;
+  border-style: solid;
 }
 
 .img-wrong {
